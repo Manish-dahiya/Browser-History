@@ -10,6 +10,8 @@ Load session history from a file (session.txt).
 Getting Started
 To get a local copy up and running, follow these simple steps.
 
+https://github.com/Manish-dahiya/Browser-History/assets/162584649/60c6af27-5912-4a89-ae8f-563fd28ef5ee
+
 Prerequisites
 C++ compiler (supporting C++11 or higher)
 Git (optional, for cloning the repository)
